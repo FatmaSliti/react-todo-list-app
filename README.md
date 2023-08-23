@@ -1,9 +1,24 @@
 <h1>TodoList</h1>
 
+Welcome to my Todo List App! This straightforward web application helps you keep track of your tasks and stay organized.
+
+## Features
+
+- Add new tasks with descriptions.
+- Mark tasks as completed.
+- Remove tasks from the list.
+- Edit task details.
+
 ## screenshot of the app
 
 ![App Screenshot](/todolist.png)
 
+## Technologies Used
+
+- HTML
+- CSS
+- react
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
