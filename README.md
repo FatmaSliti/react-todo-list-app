@@ -9,7 +9,7 @@ Welcome to my Todo List App! This straightforward web application helps you keep
 - Remove tasks from the list.
 - Edit task details.
 
-## screenshot of the app
+## preview
 
 ![App Screenshot](/todolist.png)
 
