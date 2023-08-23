@@ -11,7 +11,7 @@ Welcome to my Todo List App! This straightforward web application helps you keep
 
 ## preview
 
-![App Screenshot](/todolist.png)
+![App Screenshot](/toddolist.png)
 
 ## Technologies Used
 
