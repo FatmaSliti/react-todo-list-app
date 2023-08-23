@@ -1,6 +1,6 @@
 <h1>TodoList</h1>
 
-## Screenshots
+## screenshot of the app
 
 ![App Screenshot](/todolist.png)
 
