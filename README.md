@@ -1,7 +1,8 @@
 <h1>TodoList</h1>
 
-#preview
+## Screenshots
 
+![App Screenshot](/todolist.png)
 
 # Getting Started with Create React App
 
