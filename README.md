@@ -17,7 +17,7 @@ Welcome to my Todo List App! This straightforward web application helps you keep
 
 - HTML
 - CSS
-- react
+- react js
   
 # Getting Started with Create React App
 
