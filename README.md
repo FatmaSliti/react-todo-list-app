@@ -1,6 +1,6 @@
 <h1>TodoList</h1>
 
-Welcome to my Todo List App! This straightforward web application helps you keep track of your tasks and stay organized.
+Welcome to my Todo List App! This simple web application helps you keep track of your tasks and stay organized.
 
 ## Features
 
